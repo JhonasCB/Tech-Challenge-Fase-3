@@ -88,20 +88,11 @@ O arquivo `google-apps-script-backend.gs` é um App da Web serverless que:
 
 ---
 
-## 🚀 Como rodar localmente
+## 🚀 Acesse o site
 
-Não precisa de servidor. Literalmente:
+A landing page está disponível online — sem precisar baixar nada:
 
-```bash
-# Clone o repositório
-git clone https://github.com/JhonasCB/Tech-Challenge-Fase-3.git
-
-# Abra o arquivo no navegador
-start ifood-insiders-landing_v2.html   # Windows
-open ifood-insiders-landing_v2.html    # macOS
-```
-
-Ou simplesmente arraste o `.html` para o navegador.
+**[👉 jhonasCB.github.io/Tech-Challenge-Fase-3](https://jhonasCB.github.io/Tech-Challenge-Fase-3/)**
 
 ---
 
