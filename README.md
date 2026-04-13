@@ -65,16 +65,6 @@ O arquivo `google-apps-script-backend.gs` é um App da Web serverless que:
 - **GET** → retorna o total de inscritos na planilha (`{ count: N }`) para o contador dinâmico da página
 - **POST** → recebe os dados do formulário, valida, verifica duplicatas por e-mail e insere uma nova linha na planilha com timestamp
 
-### Como conectar
-
-1. Abra o Google Sheets da sua planilha de inscrições
-2. Vá em **Extensões → Apps Script** e cole o conteúdo de `google-apps-script-backend.gs`
-3. Clique em **Implantar → Nova implantação**
-   - Tipo: **App da Web**
-   - Executar como: **Eu mesmo**
-   - Acesso: **Qualquer pessoa**
-4. Copie a URL gerada e cole na constante `APPS_SCRIPT_URL` dentro do HTML
-
 ---
 
 ## 🗂️ Estrutura do Repositório
